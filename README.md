@@ -2,6 +2,10 @@
 
 A simple graph visualization library and an exampe application for Android.
 
+### See Graphs in action
+
+[video](https://www.youtube.com/watch?v=3rE-w2Fk8Lc)
+
 ### Example application
 
 [Download the apk file from here](graphsExample-1.0.apk "APK 1.0")
