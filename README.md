@@ -4,7 +4,7 @@ A simple graph visualization library and an exampe application for Android.
 
 ### See Graphs in action
 
-[video](https://www.youtube.com/watch?v=3rE-w2Fk8Lc)
+[![Video](http://img.youtube.com/vi/3rE-w2Fk8Lc/0.jpg)](http://www.youtube.com/watch?v=3rE-w2Fk8Lc "Example app of the Graphs library")
 
 ### Example application
 
